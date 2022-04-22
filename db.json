@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Lucas",
+      "email": "mosscordeiro@hotmail.com",
+      "password": "336336"
+    },
+    {
+      "email": "pilotocordeiro@hotmail.com",
+      "password": "$2a$10$YGWEQRiCIOgSB3x8yyg/YOZ7WP391SBsTP9v8MHbXCfZlPtp.50n6",
+      "nome": "Lucas",
+      "sobrenome": "Cordeiro",
+      "id": 2
+    },
+    {
+      "email": "administrador@hotmail.com",
+      "password": "$2a$10$MG9qCrmf0TmF0RwXSjIxAOyNlJhkWuSlTVYGVvWkVL1TBSWXeflom",
+      "nome": "Lucas",
+      "sobrenome": "Cordeiro",
+      "id": 3
+    },
+    {
+      "email": "alice@hotmail.com",
+      "password": "$2a$10$uxeS1dazB3GoOrVXhMlxSuShnNquxG.wtXfJmorHZClGI5yFE5/JS",
+      "nome": "Alice",
+      "sobrenome": "Vaccari",
+      "id": 4
+    },
+    {
+      "email": "admin@hotmail.com",
+      "password": "$2a$10$B0zMPHxmLsTc0yKvL8jHPe4Mu6R8cvzv8ku6IaG94.3QWNGSnY4Dq",
+      "nome": "lucas",
+      "sobrenome": "Pereira",
+      "id": 5
+    },
+    {
+      "email": "pedro@hotmail.com",
+      "password": "$2a$10$egbo9BTrUHcJ21syGmxrrezuCea00/0v.WxwHjN1Vx.O/ySWpj2Eu",
+      "nome": "Pedro",
+      "sobrenome": "Almeida",
+      "id": 6
+    },
+    {
+      "email": "ratibum@hotmail.com",
+      "password": "$2a$10$juo79beNyEF.SSgWIhehheqkfFXe7DvAqpRv2jN9utXGusbI0SSLG",
+      "nome": "Pedro",
+      "sobrenome": "Vaccari",
+      "id": 7
+    },
+    {
+      "email": "ilocordeiro@hotmail.com",
+      "password": "$2a$10$TLZgf5HP3WQ.RKBlxyTCr.u7IaZ0DdiPZSC85a0mR0IHLSWiYJqwu",
+      "nome": "ivani",
+      "sobrenome": "cordeiro",
+      "id": 8
+    },
+    {
+      "email": "antunescordeiro3054@gmail.com",
+      "password": "$2a$10$wxPYOex895Uq0jlhDk5pGeA6yeBQcFB2ZnujWnIonPhtDfMAzhTiq",
+      "nome": "Carlos",
+      "sobrenome": "Antunes",
+      "id": 9
+    },
+    {
+      "email": "email2@email.com",
+      "password": "$2a$10$KwaGoLIcObCxZ7MggM/eAO8MleLc7g9.GUBE.mQ98fOSNBEBZcQwG",
+      "nome": "Lucas",
+      "sobrenome": "Pereira",
+      "id": 10
+    },
+    {
+      "email": "comandantecordeiro@hotmail.com",
+      "password": "$2a$10$3snkt77k.VIBz1bAqmIY0eVwWsTKEYh3SOOOBZEUCQvUCO30w.zOK",
+      "nome": "Lucas",
+      "sobrenome": "Cordeiro",
+      "id": 11
+    },
+    {
+      "email": "administrador2@hotmail.com",
+      "password": "$2a$10$da6QT3pVNKV1R9NJmQO4OOkAeOqYqhhpfQ37VzgOio2nZ2VJMpJTG",
+      "nome": "Rafael",
+      "sobrenome": "Cordeiro",
+      "id": 12
+    }
+  ]
+}

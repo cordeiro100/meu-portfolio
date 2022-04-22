@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+.tudo {
+  background-image: url("src/assets/background2.png");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  color: rgb(228, 228, 228);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 70px;
+  top: 100px;
+  position: absolute;
+
+  font-family: "Bebas Neue", cursive;
+}
+
+img {
+  opacity: 0.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 200px;
+  border-radius: 50%;
+  border: 10px solid;
+  animation: colors 22s ease infinite;
+}
+
+@keyframes colors {
+  0% {
+    box-shadow: 0px 0px 30px #ffffff, 0px 0px 10px silver;
+  }
+  30% {
+    box-shadow: 0px 0px 30px #04a596, 0px 0px 10px silver;
+  }
+  50% {
+    box-shadow: 0px 0px 30px #a50404, 0px 0px 10px silver;
+  }
+  100% {
+    box-shadow: 0px 0px 30px #2bff00, 0px 0px 10px silver;
+  }
+}
+
+a {
+  font-family: "Bebas Neue", cursive;
+  position: relative;
+  top: 140px;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+
+@media screen and (max-width: 1280px) {
+  img {
+    width: 500px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  img {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  img {
+    width: 400px;
+  }
+  h1{
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 655px) {
+  img {
+    width: 300px;
+  }
+
+}
+@media screen and (max-width: 500px) {
+  img {
+    width: 300px;
+    
+  }
+  h1{
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  img {
+    width: 300px;
+    
+  }
+  h1{
+    font-size: 30px;
+  }
+
+}
